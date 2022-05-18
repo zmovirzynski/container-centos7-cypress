@@ -1,0 +1,6 @@
+{
+    "name": "cypress-environment",
+    "dockerFile": "../Dockerfile",
+    "appPort": [],
+    "postStartCommand": "nohup bash -c 'Xvfb :99 &' >/dev/null 2>&1"
+}  
