@@ -11,3 +11,8 @@ tput: No value for $TERM and no -T specified
 
 Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.
 
+To run:
+
+Docker Build
+npm i
+npm run test
