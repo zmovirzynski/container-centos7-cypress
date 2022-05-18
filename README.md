@@ -14,5 +14,7 @@ Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' ma
 To run:
 
 Docker Build
+
 npm i
+
 npm run test
