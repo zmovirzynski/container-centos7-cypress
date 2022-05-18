@@ -4,6 +4,7 @@ Solved all Linux CentOS 7 architecture errors when running Cypress, this example
 Example erros:
 
 ERROR:gpu_init.cc(426) Passthrough is not supported, GL is disabled
+
 ERROR:gpu_init.cc(453) Passthrough is not supported, GL is disabled
 
 tput: No value for $TERM and no -T specified
